@@ -1,0 +1,2 @@
+1.将项目嵌入到自己项目的时候要在buidsetting 里面设置下
+Other Linker Flags 添加 _Objec _lz _lstdc++
